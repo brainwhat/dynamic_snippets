@@ -1,0 +1,871 @@
+{
+ "_base": {
+  "font": "fonts/Jost-wght.ttf",
+  "weight": 700,
+  "cap": 0.93,
+  "width": 1.264,
+  "width_word": "НАПЛЕВАТЬ",
+  "maxw": 0.94,
+  "dark": [
+   0,
+   0,
+   0
+  ],
+  "sub_font": "/System/Library/Fonts/Palatino.ttc",
+  "sub_index": 1,
+  "sub_size": 0.06
+ },
+ "navy": {
+  "accent": [
+   37,
+   61,
+   93
+  ],
+  "first": "dark",
+  "subs": false,
+  "note": "референс 1, «наплевать, что говорят её подруги»"
+ },
+ "red": {
+  "accent": [
+   157,
+   31,
+   31
+  ],
+  "first": "dark",
+  "subs": true,
+  "note": "референс 2, «киса подай мне знак»: белая строка курсивом по центру"
+ },
+ "indigo": {
+  "accent": [
+   54,
+   60,
+   104
+  ],
+  "first": "accent",
+  "subs": false,
+  "note": "референс 3, «я любить что знаю о любви»"
+ },
+ "pink": {
+  "accent": [
+   204,
+   72,
+   140
+  ],
+  "first": "accent",
+  "subs": false,
+  "note": "розовый с обложки «Как дора»"
+ },
+ "story": {
+  "accent": [
+   233,
+   145,
+   211
+  ],
+  "dark": [
+   65,
+   20,
+   107
+  ],
+  "first": "accent",
+  "subs": false,
+  "note": "гамма «Как дора - сторис»: розовый и фиолетовый"
+ },
+ "story_chrome": {
+  "accent": [
+   233,
+   145,
+   211
+  ],
+  "dark": [
+   65,
+   20,
+   107
+  ],
+  "grad": [
+   [
+    112,
+    216,
+    126
+   ],
+   [
+    232,
+    222,
+    120
+   ],
+   [
+    233,
+    145,
+    211
+   ]
+  ],
+  "first": "accent",
+  "subs": false,
+  "note": "как story, буквы на фиолетовом салатовый-жёлтый-розовый, как надпись на обложке"
+ },
+ "givenchy": {
+  "accent": [
+   226,
+   46,
+   122
+  ],
+  "dark": [
+   222,
+   228,
+   229
+  ],
+  "first": "accent",
+  "subs": false,
+  "note": "обложка «Дживанши»: розовое граффити на белой плитке (розовый 226,46,122 и плитка 222,228,229 вместо чёрного)"
+ },
+ "papa_blood": {
+  "accent": [
+   196,
+   32,
+   36
+  ],
+  "dark": [
+   10,
+   8,
+   6
+  ],
+  "first": "dark",
+  "subs": false,
+  "note": "обложка «ПАПА»: кровавые брызги на чёрной туши"
+ },
+ "papa_paper": {
+  "accent": [
+   236,
+   190,
+   202
+  ],
+  "dark": [
+   10,
+   8,
+   6
+  ],
+  "first": "accent",
+  "subs": false,
+  "note": "обложка «ПАПА»: бледно-розовая бумага и чёрная тушь"
+ },
+ "papa_rose": {
+  "accent": [
+   196,
+   32,
+   36
+  ],
+  "dark": [
+   236,
+   190,
+   202
+  ],
+  "first": "accent",
+  "subs": false,
+  "note": "обложка «ПАПА»: красный и бледно-розовая бумага вместо чёрного"
+ },
+ "papa_phone": {
+  "accent": [
+   44,
+   186,
+   191
+  ],
+  "dark": [
+   10,
+   8,
+   6
+  ],
+  "grad": [
+   [
+    44,
+    186,
+    191
+   ],
+   [
+    231,
+    106,
+    44
+   ]
+  ],
+  "first": "dark",
+  "subs": false,
+  "note": "обложка «ПАПА»: экран телефона, бирюза и оранжевый на чёрном"
+ },
+ "lyublyu_rose": {
+  "accent": [
+   140,
+   86,
+   94
+  ],
+  "dark": [
+   28,
+   26,
+   30
+  ],
+  "first": "accent",
+  "subs": false,
+  "note": "обложка «люблю<3»: пыльно-розовые рамы окна и серо-чёрная комната"
+ },
+ "lyublyu_moon": {
+  "accent": [
+   172,
+   146,
+   98
+  ],
+  "dark": [
+   52,
+   44,
+   58
+  ],
+  "first": "dark",
+  "subs": false,
+  "note": "обложка «люблю<3»: жёлтая луна и фиолетовая футболка"
+ },
+ "lyublyu_bottle": {
+  "accent": [
+   52,
+   104,
+   40
+  ],
+  "dark": [
+   28,
+   26,
+   30
+  ],
+  "first": "dark",
+  "subs": false,
+  "note": "обложка «люблю<3»: зелёная бутылка на подоконнике в темноте"
+ },
+ "tolpy_rose": {
+  "accent": [
+   150,
+   92,
+   100
+  ],
+  "dark": [
+   26,
+   24,
+   28
+  ],
+  "first": "dark",
+  "subs": false,
+  "note": "обложка «Толпы»: пыльно-розовое окно и тёмная комната"
+ },
+ "tolpy_bottle": {
+  "accent": [
+   62,
+   118,
+   46
+  ],
+  "dark": [
+   20,
+   20,
+   22
+  ],
+  "first": "accent",
+  "subs": false,
+  "note": "обложка «Толпы»: зелёная бутылка на тёмном подоконнике"
+ },
+ "tolpy_moon": {
+  "accent": [
+   184,
+   156,
+   104
+  ],
+  "dark": [
+   58,
+   48,
+   62
+  ],
+  "first": "dark",
+  "subs": false,
+  "note": "обложка «Толпы»: жёлтая луна за окном и фиолетовая футболка"
+ },
+ "tolpy_glow": {
+  "accent": [
+   150,
+   92,
+   100
+  ],
+  "dark": [
+   26,
+   24,
+   28
+  ],
+  "grad": [
+   [
+    184,
+    156,
+    104
+   ],
+   [
+    150,
+    92,
+    100
+   ]
+  ],
+  "first": "accent",
+  "subs": false,
+  "note": "обложка «Толпы»: розовое окно, буквы на тёмном переливаются от жёлтой луны к розовому"
+ },
+ "obidelas_dot": {
+  "accent": [
+   200,
+   26,
+   22
+  ],
+  "dark": [
+   244,
+   243,
+   240
+  ],
+  "first": "accent",
+  "subs": false,
+  "note": "обложка «ты че обиделась»: красная точка на белой панели (красный и белый вместо чёрного)"
+ },
+ "obidelas_wpn": {
+  "accent": [
+   244,
+   243,
+   240
+  ],
+  "dark": [
+   8,
+   8,
+   8
+  ],
+  "first": "accent",
+  "subs": false,
+  "note": "обложка «ты че обиделась»: чёрная надпись «Mind Ctrl Wpn» на белом"
+ },
+ "obidelas_blood": {
+  "accent": [
+   200,
+   26,
+   22
+  ],
+  "dark": [
+   8,
+   8,
+   8
+  ],
+  "first": "dark",
+  "subs": false,
+  "note": "обложка «ты че обиделась»: красная точка и чёрная панель"
+ },
+ "obidelas_room": {
+  "accent": [
+   150,
+   148,
+   146
+  ],
+  "dark": [
+   44,
+   34,
+   30
+  ],
+  "first": "dark",
+  "subs": false,
+  "note": "обложка «ты че обиделась»: серая стена и тёмное дерево стола"
+ },
+ "obidelas_foot": {
+  "accent": [
+   190,
+   160,
+   148
+  ],
+  "dark": [
+   200,
+   26,
+   22
+  ],
+  "first": "accent",
+  "subs": false,
+  "note": "обложка «ты че обиделась»: ступня и красная точка на ней (телесный и красный вместо чёрного)"
+ },
+ "tongue": {
+  "look": "tongue",
+  "accent": [
+   243,
+   207,
+   154
+  ],
+  "accent2": [
+   246,
+   220,
+   181
+  ],
+  "dark": [
+   62,
+   3,
+   0
+  ],
+  "dark2": [
+   79,
+   4,
+   1
+  ],
+  "first": "dark",
+  "subs": false,
+  "modes": [
+   "big",
+   "line",
+   "push",
+   "small",
+   "script",
+   "ghost",
+   "strip"
+  ],
+  "big_font": "/System/Library/Fonts/Supplemental/DIN Condensed Bold.ttf",
+  "big_cap": 0.46,
+  "big_width": 1.84,
+  "big_width_word": "WANT",
+  "big_maxw": 0.9,
+  "small_font": "fonts/Unbounded-wght.ttf",
+  "small_weight": 900,
+  "line_size": 0.055,
+  "word_size": 0.12,
+  "script_font": "/System/Library/Fonts/Supplemental/SnellRoundhand.ttc",
+  "script_index": 1,
+  "script_size": 0.27,
+  "ghost": 0.22,
+  "flicker_hz": 30,
+  "push_steps": [
+   [
+    0,
+    0.5
+   ],
+   [
+    0.05,
+    0.22
+   ],
+   [
+    0.1,
+    0
+   ]
+  ],
+  "note": "референс 4 «tongue twister»: кремовый и бордовый, мерцание, подачи по строкам (README, «Вид tongue»)"
+ },
+ "anest_eye": {
+  "look": "tongue",
+  "subs": false,
+  "modes": [
+   "big",
+   "line",
+   "push",
+   "small",
+   "script",
+   "ghost",
+   "strip"
+  ],
+  "big_font": "/System/Library/Fonts/Supplemental/DIN Condensed Bold.ttf",
+  "big_cap": 0.46,
+  "big_width": 1.84,
+  "big_width_word": "WANT",
+  "big_maxw": 0.9,
+  "small_font": "fonts/Unbounded-wght.ttf",
+  "small_weight": 900,
+  "line_size": 0.055,
+  "word_size": 0.12,
+  "script_font": "/System/Library/Fonts/Supplemental/SnellRoundhand.ttc",
+  "script_index": 1,
+  "script_size": 0.27,
+  "ghost": 0.22,
+  "flicker_hz": 30,
+  "push_steps": [
+   [
+    0,
+    0.5
+   ],
+   [
+    0.05,
+    0.22
+   ],
+   [
+    0.1,
+    0
+   ]
+  ],
+  "accent": [
+   200,
+   50,
+   171
+  ],
+  "dark": [
+   34,
+   14,
+   33
+  ],
+  "first": "dark",
+  "note": "вид tongue, обложка «Анестезия»: ярко-розовые глаза и тёмно-фиолетовая перчатка"
+ },
+ "anest_needle": {
+  "look": "tongue",
+  "subs": false,
+  "modes": [
+   "big",
+   "line",
+   "push",
+   "small",
+   "script",
+   "ghost",
+   "strip"
+  ],
+  "big_font": "/System/Library/Fonts/Supplemental/DIN Condensed Bold.ttf",
+  "big_cap": 0.46,
+  "big_width": 1.84,
+  "big_width_word": "WANT",
+  "big_maxw": 0.9,
+  "small_font": "fonts/Unbounded-wght.ttf",
+  "small_weight": 900,
+  "line_size": 0.055,
+  "word_size": 0.12,
+  "script_font": "/System/Library/Fonts/Supplemental/SnellRoundhand.ttc",
+  "script_index": 1,
+  "script_size": 0.27,
+  "ghost": 0.22,
+  "flicker_hz": 30,
+  "push_steps": [
+   [
+    0,
+    0.5
+   ],
+   [
+    0.05,
+    0.22
+   ],
+   [
+    0.1,
+    0
+   ]
+  ],
+  "accent": [
+   118,
+   206,
+   128
+  ],
+  "dark": [
+   37,
+   14,
+   32
+  ],
+  "first": "accent",
+  "note": "вид tongue, обложка «Анестезия»: зелёная игла шприца на фиолетово-чёрном"
+ },
+ "anest_hair": {
+  "look": "tongue",
+  "subs": false,
+  "modes": [
+   "big",
+   "line",
+   "push",
+   "small",
+   "script",
+   "ghost",
+   "strip"
+  ],
+  "big_font": "/System/Library/Fonts/Supplemental/DIN Condensed Bold.ttf",
+  "big_cap": 0.46,
+  "big_width": 1.84,
+  "big_width_word": "WANT",
+  "big_maxw": 0.9,
+  "small_font": "fonts/Unbounded-wght.ttf",
+  "small_weight": 900,
+  "line_size": 0.055,
+  "word_size": 0.12,
+  "script_font": "/System/Library/Fonts/Supplemental/SnellRoundhand.ttc",
+  "script_index": 1,
+  "script_size": 0.27,
+  "ghost": 0.22,
+  "flicker_hz": 30,
+  "push_steps": [
+   [
+    0,
+    0.5
+   ],
+   [
+    0.05,
+    0.22
+   ],
+   [
+    0.1,
+    0
+   ]
+  ],
+  "accent": [
+   184,
+   74,
+   140
+  ],
+  "dark": [
+   44,
+   43,
+   43
+  ],
+  "first": "dark",
+  "note": "вид tongue, обложка «Анестезия»: розовые волосы и серый фон"
+ },
+ "anest_glove": {
+  "look": "tongue",
+  "subs": false,
+  "modes": [
+   "big",
+   "line",
+   "push",
+   "small",
+   "script",
+   "ghost",
+   "strip"
+  ],
+  "big_font": "/System/Library/Fonts/Supplemental/DIN Condensed Bold.ttf",
+  "big_cap": 0.46,
+  "big_width": 1.84,
+  "big_width_word": "WANT",
+  "big_maxw": 0.9,
+  "small_font": "fonts/Unbounded-wght.ttf",
+  "small_weight": 900,
+  "line_size": 0.055,
+  "word_size": 0.12,
+  "script_font": "/System/Library/Fonts/Supplemental/SnellRoundhand.ttc",
+  "script_index": 1,
+  "script_size": 0.27,
+  "ghost": 0.22,
+  "flicker_hz": 30,
+  "push_steps": [
+   [
+    0,
+    0.5
+   ],
+   [
+    0.05,
+    0.22
+   ],
+   [
+    0.1,
+    0
+   ]
+  ],
+  "accent": [
+   226,
+   140,
+   196
+  ],
+  "dark": [
+   96,
+   28,
+   92
+  ],
+  "first": "accent",
+  "note": "вид tongue, обложка «Анестезия»: светло-розовые пряди и фиолетовые перчатки"
+ },
+ "vyv_jacket": {
+  "look": "tongue",
+  "subs": false,
+  "modes": [
+   "big",
+   "line",
+   "push",
+   "small",
+   "script",
+   "ghost",
+   "strip"
+  ],
+  "big_font": "/System/Library/Fonts/Supplemental/DIN Condensed Bold.ttf",
+  "big_cap": 0.46,
+  "big_width": 1.84,
+  "big_width_word": "WANT",
+  "big_maxw": 0.9,
+  "small_font": "fonts/Unbounded-wght.ttf",
+  "small_weight": 900,
+  "line_size": 0.055,
+  "word_size": 0.12,
+  "script_font": "/System/Library/Fonts/Supplemental/SnellRoundhand.ttc",
+  "script_index": 1,
+  "script_size": 0.27,
+  "ghost": 0.22,
+  "flicker_hz": 30,
+  "push_steps": [
+   [
+    0,
+    0.5
+   ],
+   [
+    0.05,
+    0.22
+   ],
+   [
+    0.1,
+    0
+   ]
+  ],
+  "accent": [
+   145,
+   142,
+   136
+  ],
+  "dark": [
+   33,
+   27,
+   28
+  ],
+  "first": "dark",
+  "note": "вид tongue, обложка «выводы»: серо-хаки куртка и тёмная комната"
+ },
+ "vyv_lime": {
+  "look": "tongue",
+  "subs": false,
+  "modes": [
+   "big",
+   "line",
+   "push",
+   "small",
+   "script",
+   "ghost",
+   "strip"
+  ],
+  "big_font": "/System/Library/Fonts/Supplemental/DIN Condensed Bold.ttf",
+  "big_cap": 0.46,
+  "big_width": 1.84,
+  "big_width_word": "WANT",
+  "big_maxw": 0.9,
+  "small_font": "fonts/Unbounded-wght.ttf",
+  "small_weight": 900,
+  "line_size": 0.055,
+  "word_size": 0.12,
+  "script_font": "/System/Library/Fonts/Supplemental/SnellRoundhand.ttc",
+  "script_index": 1,
+  "script_size": 0.27,
+  "ghost": 0.22,
+  "flicker_hz": 30,
+  "push_steps": [
+   [
+    0,
+    0.5
+   ],
+   [
+    0.05,
+    0.22
+   ],
+   [
+    0.1,
+    0
+   ]
+  ],
+  "accent": [
+   224,
+   237,
+   128
+  ],
+  "dark": [
+   40,
+   39,
+   45
+  ],
+  "first": "accent",
+  "note": "вид tongue, обложка «выводы»: салатовый браслет и чёрная водолазка"
+ },
+ "vyv_lamp": {
+  "look": "tongue",
+  "subs": false,
+  "modes": [
+   "big",
+   "line",
+   "push",
+   "small",
+   "script",
+   "ghost",
+   "strip"
+  ],
+  "big_font": "/System/Library/Fonts/Supplemental/DIN Condensed Bold.ttf",
+  "big_cap": 0.46,
+  "big_width": 1.84,
+  "big_width_word": "WANT",
+  "big_maxw": 0.9,
+  "small_font": "fonts/Unbounded-wght.ttf",
+  "small_weight": 900,
+  "line_size": 0.055,
+  "word_size": 0.12,
+  "script_font": "/System/Library/Fonts/Supplemental/SnellRoundhand.ttc",
+  "script_index": 1,
+  "script_size": 0.27,
+  "ghost": 0.22,
+  "flicker_hz": 30,
+  "push_steps": [
+   [
+    0,
+    0.5
+   ],
+   [
+    0.05,
+    0.22
+   ],
+   [
+    0.1,
+    0
+   ]
+  ],
+  "accent": [
+   227,
+   170,
+   90
+  ],
+  "dark": [
+   37,
+   28,
+   27
+  ],
+  "first": "dark",
+  "note": "вид tongue, обложка «выводы»: тёплый свет лампы и тёмное дерево"
+ },
+ "vyv_book": {
+  "look": "tongue",
+  "subs": false,
+  "modes": [
+   "big",
+   "line",
+   "push",
+   "small",
+   "script",
+   "ghost",
+   "strip"
+  ],
+  "big_font": "/System/Library/Fonts/Supplemental/DIN Condensed Bold.ttf",
+  "big_cap": 0.46,
+  "big_width": 1.84,
+  "big_width_word": "WANT",
+  "big_maxw": 0.9,
+  "small_font": "fonts/Unbounded-wght.ttf",
+  "small_weight": 900,
+  "line_size": 0.055,
+  "word_size": 0.12,
+  "script_font": "/System/Library/Fonts/Supplemental/SnellRoundhand.ttc",
+  "script_index": 1,
+  "script_size": 0.27,
+  "ghost": 0.22,
+  "flicker_hz": 30,
+  "push_steps": [
+   [
+    0,
+    0.5
+   ],
+   [
+    0.05,
+    0.22
+   ],
+   [
+    0.1,
+    0
+   ]
+  ],
+  "accent": [
+   160,
+   56,
+   56
+  ],
+  "dark": [
+   34,
+   28,
+   30
+  ],
+  "first": "accent",
+  "note": "вид tongue, обложка «выводы»: красная книга на столе"
+ }
+}

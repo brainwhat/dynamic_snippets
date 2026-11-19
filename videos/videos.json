@@ -1,0 +1,911 @@
+{
+ "dora1": {
+  "track": "kakdora",
+  "part": "хук 1",
+  "start": 2.0108,
+  "end": 34.0856,
+  "style": "pink",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    2.0108,
+    "mix"
+   ],
+   [
+    32.98,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "dora2": {
+  "track": "kakdora",
+  "part": "хук 1",
+  "start": 2.0108,
+  "end": 34.0856,
+  "style": "story",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    2.0108,
+    "mix"
+   ],
+   [
+    32.98,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "dora3": {
+  "track": "kakdora",
+  "part": "хук 1",
+  "start": 2.0108,
+  "end": 34.0856,
+  "style": "story_chrome",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    2.0108,
+    "mix"
+   ],
+   [
+    32.98,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "delivered"
+ },
+ "vklube1": {
+  "track": "vklube",
+  "part": "интро + хук 1",
+  "start": 0.19,
+  "end": 33.2934,
+  "style": "navy",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    0.19,
+    "mix"
+   ],
+   [
+    32.46,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "poell1": {
+  "track": "poell",
+  "part": "хук 1 + куплет + хук 2",
+  "start": 13.891,
+  "end": 60.96,
+  "style": "red",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    13.891,
+    "mix"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {
+   "67.2": 45.23
+  },
+  "status": "rendered"
+ },
+ "krasiv1": {
+  "track": "krasiv",
+  "part": "хук 1",
+  "start": 6.195,
+  "end": 38.776,
+  "style": "indigo",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    6.195,
+    "mix"
+   ],
+   [
+    38.6,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {
+   "24": 18.53,
+   "55": 34.57
+  },
+  "status": "rendered"
+ },
+ "givenchy1": {
+  "track": "givenchy",
+  "part": "хук 1",
+  "start": 0.06,
+  "end": 17.0025,
+  "style": "givenchy",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    0.06,
+    "mix"
+   ],
+   [
+    15.75,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "alaska1": {
+  "track": "alaska",
+  "part": "хук 1",
+  "start": 13.911,
+  "end": 47.5244,
+  "style": "navy",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    13.911,
+    "mix"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "krasiv2": {
+  "track": "krasiv",
+  "part": "хук (4 строки)",
+  "start": 6.195,
+  "end": 22.736,
+  "style": "navy",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    6.195,
+    "mix"
+   ],
+   [
+    22.68,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "krasiv3": {
+  "track": "krasiv",
+  "part": "куплет 1",
+  "start": 38.2752,
+  "end": 56.3203,
+  "style": "red",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    38.2752,
+    "inst"
+   ],
+   [
+    38.62,
+    "mix"
+   ],
+   [
+    55.28,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "krasiv4": {
+  "track": "krasiv",
+  "part": "куплет 2",
+  "start": 54.3153,
+  "end": 72.3604,
+  "style": "indigo",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    54.3153,
+    "inst"
+   ],
+   [
+    55.29,
+    "mix"
+   ],
+   [
+    71.6,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {
+   "0": 55.33
+  },
+  "status": "rendered"
+ },
+ "papa1": {
+  "track": "papa",
+  "part": "хук 2 (такты 19-24, затакт)",
+  "start": 42.08,
+  "end": 55.1712,
+  "style": "papa_blood",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    42.08,
+    "mix"
+   ],
+   [
+    54.54,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "papa2": {
+  "track": "papa",
+  "part": "куплет 1, первая половина (такты 8-14)",
+  "start": 18.9902,
+  "end": 32.0811,
+  "style": "papa_paper",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    18.9902,
+    "inst"
+   ],
+   [
+    19.27,
+    "mix"
+   ],
+   [
+    30.5,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {
+   "0": 19.32,
+   "29": 29.88,
+   "29.1": 29.94
+  },
+  "status": "rendered"
+ },
+ "papa3": {
+  "track": "papa",
+  "part": "куплет 2а (такты 24-30)",
+  "start": 53.8992,
+  "end": 66.9901,
+  "style": "papa_rose",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    53.8992,
+    "inst"
+   ],
+   [
+    54.54,
+    "mix"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "papa4": {
+  "track": "papa",
+  "part": "куплет 2б (такты 30-35)",
+  "start": 66.9901,
+  "end": 77.8992,
+  "style": "papa_phone",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    66.9901,
+    "mix"
+   ],
+   [
+    77.82,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "papa5": {
+  "track": "papa",
+  "part": "куплет 1, вторая половина (такты 13-19)",
+  "start": 29.8992,
+  "end": 42.9902,
+  "style": "papa_blood",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    29.8992,
+    "inst"
+   ],
+   [
+    30.5,
+    "mix"
+   ],
+   [
+    42.1,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {
+   "0": 30.54
+  },
+  "status": "rendered"
+ },
+ "lyublyu1": {
+  "track": "lyublyu",
+  "part": "припев 1, строки 1-4 (такты 5-9, с затакта)",
+  "start": 12.0027,
+  "end": 22.6104,
+  "style": "lyublyu_rose",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    12.0027,
+    "inst"
+   ],
+   [
+    12.24,
+    "mix"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {
+   "0": 12.289,
+   "0.1": 12.449,
+   "1": 12.589,
+   "1.1": 12.749,
+   "2": 12.909,
+   "2.1": 13.069,
+   "3": 13.349,
+   "3.1": 13.489,
+   "4": 13.619,
+   "4.1": 13.739,
+   "5": 13.859,
+   "5.1": 14.119,
+   "5.2": 14.269,
+   "29": 22.229,
+   "30": 22.389,
+   "30.1": 22.509
+  },
+  "status": "rendered"
+ },
+ "lyublyu2": {
+  "track": "lyublyu",
+  "part": "припев 1, строки 5-8 (такты 9-14, с затакта)",
+  "start": 22.6104,
+  "end": 35.8701,
+  "style": "lyublyu_moon",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    22.6104,
+    "mix"
+   ],
+   [
+    33.9,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {
+   "0": 22.729
+  },
+  "status": "rendered"
+ },
+ "lyublyu3": {
+  "track": "lyublyu",
+  "part": "куплет 1, строки 1-4 (такты 13-17)",
+  "start": 34.5441,
+  "end": 45.1519,
+  "style": "lyublyu_bottle",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    34.5441,
+    "inst"
+   ],
+   [
+    34.84,
+    "mix"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "lyublyu4": {
+  "track": "lyublyu",
+  "part": "куплет 1, строки 5-8 (такты 17-21)",
+  "start": 45.1519,
+  "end": 55.7596,
+  "style": "lyublyu_rose",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    45.1519,
+    "mix"
+   ],
+   [
+    55.66,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "lyublyu5": {
+  "track": "lyublyu",
+  "part": "куплет 2 «Загоны», строки 1-4 (такты 29-33)",
+  "start": 76.9751,
+  "end": 87.5828,
+  "style": "lyublyu_moon",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    76.9751,
+    "mix"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {
+   "20": 85.38
+  },
+  "status": "rendered"
+ },
+ "tolpy1": {
+  "track": "tolpy",
+  "part": "хук 1 (такты 2-6)",
+  "start": 6.4278,
+  "end": 18.1252,
+  "style": "tolpy_rose",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    6.4278,
+    "mix"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "tolpy2": {
+  "track": "tolpy",
+  "part": "бридж «Говори мне это» (такты 10-14)",
+  "start": 29.8225,
+  "end": 41.5198,
+  "style": "tolpy_bottle",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    29.8225,
+    "inst"
+   ],
+   [
+    29.93,
+    "mix"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {
+   "8": 32.79,
+   "9": 32.97,
+   "10": 33.09,
+   "10.1": 33.18,
+   "11": 33.51,
+   "11.1": 33.62,
+   "12": 33.81
+  },
+  "status": "rendered"
+ },
+ "tolpy3": {
+  "track": "tolpy",
+  "part": "хук 4 (такты 18-22)",
+  "start": 53.2172,
+  "end": 64.9145,
+  "style": "tolpy_moon",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    53.2172,
+    "mix"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {
+   "23.1": 62.89
+  },
+  "status": "rendered"
+ },
+ "tolpy4": {
+  "track": "tolpy",
+  "part": "хук 5, последний (такты 22-26)",
+  "start": 64.9145,
+  "end": 76.6118,
+  "style": "tolpy_glow",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    64.9145,
+    "mix"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "obidelas1": {
+  "track": "obidelas",
+  "part": "куплет 1, строки 1-4 (с 10.9, 5 тактов)",
+  "start": 10.9,
+  "end": 25.8963,
+  "style": "obidelas_dot",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    10.9,
+    "mix"
+   ],
+   [
+    23.62,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {
+   "0": 10.94
+  },
+  "status": "rendered"
+ },
+ "obidelas2": {
+  "track": "obidelas",
+  "part": "куплет 1, строки 5-8 (с 23.62, 4 такта)",
+  "start": 23.62,
+  "end": 35.617,
+  "style": "obidelas_wpn",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    23.62,
+    "mix"
+   ],
+   [
+    35.32,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "obidelas3": {
+  "track": "obidelas",
+  "part": "припев 2 (такты 20-24)",
+  "start": 59.3292,
+  "end": 71.3262,
+  "style": "obidelas_blood",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    59.3292,
+    "mix"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "rendered"
+ },
+ "obidelas4": {
+  "track": "obidelas",
+  "part": "куплет 2 «Дешёвый пластик» (с 47.66, 4 такта)",
+  "start": 47.66,
+  "end": 59.657,
+  "style": "obidelas_room",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    47.66,
+    "mix"
+   ],
+   [
+    59.31,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {
+   "0": 47.74,
+   "0.1": 47.95,
+   "0.2": 48.16,
+   "1": 48.39
+  },
+  "status": "rendered"
+ },
+ "obidelas5": {
+  "track": "obidelas",
+  "part": "припев 3, последний (такты 24-29)",
+  "start": 71.3262,
+  "end": 86.3224,
+  "style": "obidelas_foot",
+  "size": "16x9",
+  "fps": 60,
+  "audio": [
+   [
+    71.3262,
+    "mix"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {
+   "27": 81.1,
+   "28": 81.36,
+   "29": 81.67
+  },
+  "status": "rendered"
+ },
+ "dora4": {
+  "track": "kakdora",
+  "part": "хук 1, первая половина (вид tongue)",
+  "start": 2.0108,
+  "end": 18.0482,
+  "style": "tongue",
+  "size": "4x3",
+  "fps": 60,
+  "audio": [
+   [
+    2.0108,
+    "mix"
+   ],
+   [
+    17.15,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {
+   "4": 7.35
+  },
+  "status": "draft"
+ },
+ "anest1": {
+  "track": "anestezia",
+  "part": "припев 1 (затакт + такты 0-8)",
+  "start": 6.897,
+  "end": 23.568,
+  "style": "anest_eye",
+  "size": "4x3",
+  "fps": 60,
+  "audio": [
+   [
+    6.897,
+    "mix"
+   ],
+   [
+    23.42,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "delivered",
+  "tiktok": "2026-11-19 18:00 MSK (запланировано)"
+ },
+ "anest2": {
+  "track": "anestezia",
+  "part": "куплет 1а «Её любимый рэпер» (такты 7.75-15.75)",
+  "start": 23.078,
+  "end": 38.767,
+  "style": "anest_needle",
+  "size": "4x3",
+  "fps": 60,
+  "audio": [
+   [
+    23.078,
+    "inst"
+   ],
+   [
+    23.42,
+    "mix"
+   ],
+   [
+    38.4,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {
+   "0": 23.48
+  },
+  "status": "delivered",
+  "tiktok": "2026-11-21 18:00 MSK (запланировано)"
+ },
+ "anest3": {
+  "track": "anestezia",
+  "part": "куплет 1б «Бэйби, тати» (такты 15.5-24)",
+  "start": 38.277,
+  "end": 54.947,
+  "style": "anest_hair",
+  "size": "4x3",
+  "fps": 60,
+  "audio": [
+   [
+    38.277,
+    "inst"
+   ],
+   [
+    38.38,
+    "mix"
+   ],
+   [
+    54.5,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "delivered",
+  "tiktok": "2026-11-23 18:00 MSK (запланировано)"
+ },
+ "anest4": {
+  "track": "anestezia",
+  "part": "куплет 2 «Одним выстрелом» (такты 23.75-32)",
+  "start": 54.457,
+  "end": 70.636,
+  "style": "anest_glove",
+  "size": "4x3",
+  "fps": 60,
+  "audio": [
+   [
+    54.457,
+    "inst"
+   ],
+   [
+    54.52,
+    "mix"
+   ],
+   [
+    70.48,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "delivered",
+  "tiktok": "2026-11-25 18:00 MSK (запланировано)"
+ },
+ "vyvody1": {
+  "track": "vyvody",
+  "part": "припев 1 (такты 0-8)",
+  "start": 0.0,
+  "end": 14.7636,
+  "style": "vyv_jacket",
+  "size": "4x3",
+  "fps": 60,
+  "audio": [
+   [
+    0.0,
+    "mix"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "delivered",
+  "tiktok": "2026-11-20 18:00 MSK (запланировано)"
+ },
+ "vyvody2": {
+  "track": "vyvody",
+  "part": "припев 2 (такты 8-16)",
+  "start": 14.7636,
+  "end": 29.5271,
+  "style": "vyv_lime",
+  "size": "4x3",
+  "fps": 60,
+  "audio": [
+   [
+    14.7636,
+    "mix"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "delivered",
+  "tiktok": "2026-11-22 18:00 MSK (запланировано)"
+ },
+ "vyvody3": {
+  "track": "vyvody",
+  "part": "куплет «Тебе так далеко» (такты 16-24)",
+  "start": 29.5271,
+  "end": 44.2907,
+  "style": "vyv_lamp",
+  "size": "4x3",
+  "fps": 60,
+  "audio": [
+   [
+    29.5271,
+    "mix"
+   ],
+   [
+    44.22,
+    "inst"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "delivered",
+  "tiktok": "2026-11-24 18:00 MSK (запланировано)"
+ },
+ "vyvody4": {
+  "track": "vyvody",
+  "part": "припев 3, последний (такты 24-32)",
+  "start": 44.2907,
+  "end": 59.0542,
+  "style": "vyv_book",
+  "size": "4x3",
+  "fps": 60,
+  "audio": [
+   [
+    44.2907,
+    "mix"
+   ]
+  ],
+  "fade": 0.03,
+  "onsets": {},
+  "status": "delivered",
+  "tiktok": "2026-11-26 18:00 MSK (запланировано)"
+ }
+}

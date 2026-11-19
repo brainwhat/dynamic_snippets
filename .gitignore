@@ -1,0 +1,14 @@
+# macOS / Python
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+
+# Тяжёлое и восстановимое: кэш, рендеры, аудио
+cache/
+output/
+archive/
+*.wav
+*.mp3
+*.flac
+*.m4a

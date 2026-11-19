@@ -1,0 +1,33 @@
+{
+ "title": "Как дора",
+ "artist": "feelthsame",
+ "lang": "ru",
+ "bpm": 119.72,
+ "source": "lyrics_snippets/tracks/kakdora (~/Downloads/как дора  MASTER.wav)",
+ "sections": [
+  {
+   "name": "хук 1 (такты 0-16)",
+   "start": 2.011,
+   "end": 34.086
+  },
+  {
+   "name": "куплет (такты 16-32, затакт «и» 33.20)",
+   "start": 34.086,
+   "end": 66.16
+  },
+  {
+   "name": "хук 2 (такты 32-48)",
+   "start": 66.16,
+   "end": 98.235
+  }
+ ],
+ "notes": "Сетка 119.72 BPM, такт n = 2.0108 + n·2.00465 с (из «Как дора/kakdora-winx»). После 96 с голоса нет. Сомнительные слова куплета: «милый ублюдок», «типа тай», «бёдра не врут». Текст хуков подтверждён пользователем (lyrics_snippets/videos/lyrics/dora1.txt).",
+ "duration": 130.0,
+ "videos": [
+  "dora1",
+  "dora2",
+  "dora3",
+  "dora4"
+ ],
+ "downbeat": 2.0108
+}

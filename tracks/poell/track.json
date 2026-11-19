@@ -1,0 +1,35 @@
+{
+ "title": "Christian Poell",
+ "artist": "feelthsame",
+ "lang": "ru",
+ "bpm": 130.0,
+ "downbeat": 0.968,
+ "source": "/Users/vasilijfrolov/Downloads/CHRISTIAN POELL (only madk1d) (2208179168).mp3",
+ "duration": 61.04,
+ "sections": [
+  {
+   "name": "интро (Fashion TV, такты 0-7)",
+   "start": 0.0,
+   "end": 13.891
+  },
+  {
+   "name": "хук 1 (такты 7-15)",
+   "start": 13.891,
+   "end": 28.66
+  },
+  {
+   "name": "куплет (такты 15-23)",
+   "start": 28.66,
+   "end": 43.43
+  },
+  {
+   "name": "хук 2 (такты 23-32.5, до конца файла)",
+   "start": 43.43,
+   "end": 60.96
+  }
+ ],
+ "notes": "Сетка 130 BPM, такт n = 0.968 + n·1.84615 с (подобрана по минусу, бит half-time, сильная доля по началу хука 13.89). Файл - сниппет 61 с, голос до 60.3. Текст хуков и куплета от пользователя (videos/lyrics/poell1.txt). Интро 1-12 с (Fashion TV) снято только GigaAM, текста пользователя нет.",
+ "videos": [
+  "poell1"
+ ]
+}
